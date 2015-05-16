@@ -7,6 +7,7 @@ public class Exercise7 {
 	public static void main(String[]args)
 	{
 		
+		//@SuppressWarnings("resource")
 		Scanner inScan = new Scanner(System.in);
 		
 		System.out.println("Type the first number:");
